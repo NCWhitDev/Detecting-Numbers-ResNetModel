@@ -17,4 +17,5 @@ Results: Delivers top performance on benchmark image recognition tasks.
 Effective Approach: Residual connections provide a reliable way to train deeper networks effectively, enabling networks to learn more complex features.
 
 Source: https://www.geeksforgeeks.org/deep-learning/residual-networks-resnet-deep-learning/
+<br>
 More Info: http://neuralnetworksanddeeplearning.com/chap1.html
